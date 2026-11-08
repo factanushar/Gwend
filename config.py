@@ -3,7 +3,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # BOT CONFIGURATION
-BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8889132829:AAEYqBwJkGWc_5auubLTsqALvmD_uNLWu_w").strip()
 ADMIN_IDS = [8872609272, 7331380618]
 
 # REQUIRED CHANNELS
